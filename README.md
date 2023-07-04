@@ -1,11 +1,8 @@
-[![Go Reference](https://pkg.go.dev/badge/github.com/bitfield/gotestdox.svg)](https://pkg.go.dev/github.com/bitfield/gotestdox)
-[![Go Report Card](https://goreportcard.com/badge/github.com/bitfield/gotestdox)](https://goreportcard.com/report/github.com/bitfield/gotestdox)
-[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/avelino/awesome-go)
+[![Go Reference](https://pkg.go.dev/badge/github.com/bitfield/gotestdox.svg)](https://pkg.go.dev/github.com/sreyardship/testclarity)
+[![Go Report Card](https://goreportcard.com/badge/github.com/sreyardship/testclarity)](https://goreportcard.com/report/github.com/sreyardship/testclarity)
 ![Tests](https://github.com/bitfield/gotestdox/actions/workflows/test.yml/badge.svg)
 
-![Writing gopher logo](img/gotestdox.png)
-
-`gotestdox` is a command-line tool for turning Go test names into readable sentences. Here's how to install it:
+`testclarity` is a command-line tool for giving clarity to your go tests. Here's how to install it:
 
 ```
 go install github.com/bitfield/gotestdox/cmd/gotestdox@latest
