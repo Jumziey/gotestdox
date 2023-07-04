@@ -8,10 +8,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/bitfield/gotestdox"
 	"github.com/fatih/color"
 	"github.com/google/go-cmp/cmp"
 	"github.com/rogpeppe/go-internal/testscript"
+	gotestdox "github.com/sreyardship/testclarity"
 )
 
 func TestMain(m *testing.M) {
@@ -20,7 +20,7 @@ func TestMain(m *testing.M) {
 	}))
 }
 
-func TestGotestdoxProducesCorrectOutputWhen(t *testing.T) {
+func TestTestclarityProducesCorrectOutputWhen(t *testing.T) {
 	t.Parallel()
 	testscript.Run(t, testscript.Params{
 		Dir: "testdata/script",

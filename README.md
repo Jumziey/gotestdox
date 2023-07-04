@@ -1,4 +1,4 @@
-[![Go Reference](https://pkg.go.dev/badge/github.com/bitfield/gotestdox.svg)](https://pkg.go.dev/github.com/sreyardship/testclarity)
+[![Go Reference](https://pkg.go.dev/badge/github.com/sreyardship/testclarity.svg)](https://pkg.go.dev/github.com/sreyardship/testclarity)
 [![Go Report Card](https://goreportcard.com/badge/github.com/sreyardship/testclarity)](https://goreportcard.com/report/github.com/sreyardship/testclarity)
 
 ![This is the way](img/testclarity.png)
@@ -8,7 +8,7 @@
 ```
 go install github.com/sreyardship/testclarity/cmd/testclarity@latest
 ```
-All credits should go to https://github.com/bitfield/gotestdox from which this project is forked.
+All credits should go to https://github.com/sreyardship/testclarity from which this project is forked.
 
 # Why fork?
 `gotestdox` is very focused on the "documentation" part of the equation. I.e. taking your test name and generate documenation out of those. We believe this should be taken a step further and into your daily development work. By constantly showing you the resulting documenation of your test names you are able to faster realize when you've designed your test bad, normally that stems from such a simple thing as the name you've given to the test.

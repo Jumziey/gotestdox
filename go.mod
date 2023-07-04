@@ -1,4 +1,4 @@
-module github.com/bitfield/gotestdox
+module github.com/sreyardship/testclarity
 
 go 1.18
 

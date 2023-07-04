@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/bitfield/gotestdox"
+	"github.com/sreyardship/testclarity"
 )
 
 func main() {
